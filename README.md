@@ -280,7 +280,6 @@ MiniDB> DELETE FROM students WHERE age < 20
 
 **Chirag Gupta**  
 MCA Student  
-· [LinkedIn](www.linkedin.com/in/chiragguptx)
 
 ---
 
